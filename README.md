@@ -47,9 +47,7 @@ Hi, I'm **Mohamed Tamer**, a Computer Science Student and Aspiring AI Engineer f
   <a href="mailto:mohamedd.t.mamdouh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/mohamed3611">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+ 
 </p>
 
 ---
