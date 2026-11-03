@@ -74,8 +74,14 @@ Hi, I'm **Mohamed Tamer**, a Computer Science Student and Aspiring AI Engineer f
   <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 </p>
 
-**Also familiar with:** SQL, Jupyter Notebook, Google Colab, Kaggle.
+### 🧰 Other Tools & Technologies
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,jupyter,anaconda,googlecolab" />
+  <a href="https://www.kaggle.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="48" />
+  </a>
+</p>
 ---
 
 ## 📊 GitHub Statistics
