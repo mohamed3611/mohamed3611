@@ -77,10 +77,10 @@ Hi, I'm **Mohamed Tamer**, a Computer Science Student and Aspiring AI Engineer f
 ### 🧰 Other Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,jupyter,anaconda,googlecolab" />
-  <a href="https://www.kaggle.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="48" />
-  </a>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </p>
 ---
 
