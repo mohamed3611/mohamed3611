@@ -18,7 +18,7 @@ Hi, I'm **Mohamed Tamer**, a Computer Science Student and Aspiring AI Engineer f
 
 🤖 I'm passionate about Artificial Intelligence, Machine Learning, and Deep Learning.
 
-💻 I love writing code, solving problems, and building practical applications.
+💻 I love writing code and building practical applications.
 
 🐍 I mainly use Python for Artificial Intelligence and Machine Learning.
 
@@ -60,6 +60,7 @@ Hi, I'm **Mohamed Tamer**, a Computer Science Student and Aspiring AI Engineer f
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -68,11 +69,6 @@ Hi, I'm **Mohamed Tamer**, a Computer Science Student and Aspiring AI Engineer f
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
-### 📊 Data Science & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
-</p>
 
 ### ⚙️ Development Tools
 
